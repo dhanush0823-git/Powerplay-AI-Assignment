@@ -1,0 +1,74 @@
+[
+  {
+    "material_name": "cement",
+    "quantity": null,
+    "unit": null,
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null
+  },
+  {
+    "material_name": "cement",
+    "quantity": 20,
+    "unit": "bags",
+    "project_name": null,
+    "location": "Mumbai",
+    "urgency": "high",
+    "deadline": null
+  },
+  {
+    "material_name": "steel bars",
+    "quantity": 200,
+    "unit": "units",
+    "project_name": "Alpha By March 30",
+    "location": null,
+    "urgency": "low",
+    "deadline": "2025-03-30"
+  },
+  {
+    "material_name": "river sand",
+    "quantity": 12,
+    "unit": "truckloads",
+    "project_name": null,
+    "location": "Bangalore",
+    "urgency": "high",
+    "deadline": null
+  },
+  {
+    "material_name": null,
+    "quantity": null,
+    "unit": null,
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null
+  },
+  {
+    "material_name": "cement",
+    "quantity": 300,
+    "unit": "bags",
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": "2025-12-28"
+  },
+  {
+    "material_name": "steel bars",
+    "quantity": null,
+    "unit": null,
+    "project_name": null,
+    "location": null,
+    "urgency": "low",
+    "deadline": null
+  },
+  {
+    "material_name": "river sand",
+    "quantity": null,
+    "unit": null,
+    "project_name": null,
+    "location": null,
+    "urgency": "high",
+    "deadline": null
+  }
+]
